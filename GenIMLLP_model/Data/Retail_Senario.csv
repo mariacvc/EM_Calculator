@@ -1,0 +1,23 @@
+﻿SC-Retail,Description,low,med,high,Unit,Select_Level
+Product Info,Average Weight per item,1,5,10,lbs,med
+Product Info,Weight of each shipping package,0.3,0.5,1,lbs,med
+Product Info,Return Rate Online Purchase,0.1,0.2,0.3,,med
+Product Info,Return Rate In-store Purchase,0.05,0.1,0.15,,med
+Product Info,Average Cost per item,15,23.08,30,$/item,med
+Packaging,Average item volume,83,588,900,in3,med
+Packaging,Packaging material (Retail),,,,,low
+Packaging,Packaging material (Etail),,,,,med
+Shipping Option,Select Level of Rush Shipments,,,,,low
+Shipping Option,%Air,0.05,0.1,0.15,,low
+Energy Intensity,Rail,303,337,371,BTU/ton-mile,med
+Energy Intensity,Air Carrier Shipment ,12408,13787,15166,BTU/ton-Mile,med
+Freight,Type of road vehicle for FTL,,,,,Heavy Duty Truck (25 ton cargo)
+Freight,Shipping efficiency,,,,,med
+Fuel Economy,Type of vehicle for last mile,,,,,"Medium Truck (20,000 lb)"
+Computer usage,Energy Consumption,3.72,5.12,6.52,kWh/GB,med
+Computer usage,Data usage per item,2.8,5.7,8.5,MB/Item,med
+Customer Transport,Basket size in-store,1,2.5,3,items/transaction,med
+Customer Transport,Basket size online,1.1,1.2,1.3,items/transaction,med
+Retail,Retail energy use,5.26,7.65,10.64,MJ/item,med
+Warehouse,Retail (Omni) Warehouse energy use,0.88,1.84,4.18,MJ/item,med
+Warehouse,Etail Warehouse energy use,0.68,1.29,3.85,MJ/item,med
