@@ -5,9 +5,9 @@
 
 ## 1.1 Files
 
-All the files required to run this model are in the next link. Two folders are considered, the working folder "GenIMLLP_model" and previous models "NCST"
+All the files required to run this model are in the working folder "GenIMLLP_model" and previous models "NCST"
 
-Link: https://ucdavis.box.com/s/mhpvmvgn9db75kbmfm6lql7yzo8wvqmv
+Link to NCST files: https://zenodo.org/records/7005237
 
 ## 1.2. Enter all the parameters 
 
